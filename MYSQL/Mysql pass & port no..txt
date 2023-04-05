@@ -1,0 +1,11 @@
+Localhost: 3306
+33060
+Password: @Kanime211
+
+To open MySQL in cmd :
+1). open cmd 
+2). type cd\
+3). type location of MySQL server (C:\Program Files\MySQL\MySQL Server 8.0\bin)
+4). now type (mysql.exe –u<username> –p)  i.e. (username:root)
+
+

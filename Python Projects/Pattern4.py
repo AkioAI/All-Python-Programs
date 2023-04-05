@@ -1,0 +1,3 @@
+n=int(input("Enter no. of rows"))
+for i in range(n): #i=0,1,2,3,4...
+    print((str(i+1)+' ')*n)  #take any number..

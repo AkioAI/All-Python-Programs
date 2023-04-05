@@ -1,0 +1,6 @@
+variable_input=input("Who are you?")
+print("you are,"+variable_input)
+input_variable=input("Why are you here?")
+print("you are here for,"+input_variable)
+var=input("what is your name?")
+print("your name is,"+var)

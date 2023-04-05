@@ -1,0 +1,5 @@
+first_name=input("Enter name in lower case: ")
+sur_name=input("Enter surname in lowercase: ")
+first_name=first_name.title()
+sur_name=sur_name.title()
+print(first_name+" "+sur_name)

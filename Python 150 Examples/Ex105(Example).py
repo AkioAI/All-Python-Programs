@@ -1,0 +1,6 @@
+file=open("countries.txt","w")
+file.write("India\n")
+file.write("South Korea\n")
+file.write("Japan\n")
+file.write("USA\n")
+file.close()

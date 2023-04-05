@@ -1,0 +1,3 @@
+n=int(input("Enter 'n' numbers"))
+for i in range(n): #1,2,3,4...
+    print("*",end=' ')
